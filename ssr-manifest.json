@@ -83,6 +83,26 @@
     "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
     "/assets/MapleMono-Regular-a85ad86f.ttf"
   ],
+  "node_modules/.pnpm/@ctrl+tinycolor@3.5.0/node_modules/@ctrl/tinycolor/dist/module/util.js": [
+    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
+    "/assets/MapleMono-Regular-a85ad86f.ttf"
+  ],
+  "node_modules/.pnpm/@ctrl+tinycolor@3.5.0/node_modules/@ctrl/tinycolor/dist/module/conversion.js": [
+    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
+    "/assets/MapleMono-Regular-a85ad86f.ttf"
+  ],
+  "node_modules/.pnpm/@ctrl+tinycolor@3.5.0/node_modules/@ctrl/tinycolor/dist/module/css-color-names.js": [
+    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
+    "/assets/MapleMono-Regular-a85ad86f.ttf"
+  ],
+  "node_modules/.pnpm/@ctrl+tinycolor@3.5.0/node_modules/@ctrl/tinycolor/dist/module/format-input.js": [
+    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
+    "/assets/MapleMono-Regular-a85ad86f.ttf"
+  ],
+  "node_modules/.pnpm/@ctrl+tinycolor@3.5.0/node_modules/@ctrl/tinycolor/dist/module/index.js": [
+    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
+    "/assets/MapleMono-Regular-a85ad86f.ttf"
+  ],
   "src/components/Website.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
     "/assets/MapleMono-Regular-a85ad86f.ttf"
