@@ -1,138 +1,122 @@
 {
   "\u0000vite/modulepreload-polyfill": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@vue+shared@3.2.45/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@vue+reactivity@3.2.45/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@vue+runtime-core@3.2.45/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@vue+runtime-dom@3.2.45/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/vue@3.2.45/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/hookable@5.4.2/node_modules/hookable/dist/index.mjs": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@unhead+vue@1.0.13_vue@3.2.45/node_modules/@unhead/vue/dist/index.mjs": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@unhead+dom@1.0.13/node_modules/@unhead/dom/dist/index.mjs": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@vueuse+head@1.0.22_vue@3.2.45/node_modules/@vueuse/head/dist/index.mjs": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/vite-ssg@0.22.1_t655cv2tzyxzoxn2qge4iug7hq/node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/vite-ssg@0.22.1_t655cv2tzyxzoxn2qge4iug7hq/node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/vite-ssg@0.22.1_t655cv2tzyxzoxn2qge4iug7hq/node_modules/vite-ssg/dist/client/single-page.mjs": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "src/style.css": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "../../../../../__uno.css": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@vueuse+shared@9.7.0_vue@3.2.45/node_modules/@vueuse/shared/index.mjs": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@vueuse+core@9.7.0_vue@3.2.45/node_modules/@vueuse/core/index.mjs": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
-  "src/components/Name.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+  "src/components/Switch.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/avatar-519d6153.webp"
   ],
-  "src/components/Name.vue?vue&type=style&index=0&scoped=9e939b10&lang.css": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+  "src/components/Switch.vue?vue&type=style&index=0&scoped=54a6d679&lang.css": [
+    "/assets/avatar-519d6153.webp"
   ],
   "\u0000plugin-vue:export-helper": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
-  "src/components/Name.vue": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+  "src/components/Switch.vue": [
+    "/assets/avatar-519d6153.webp"
+  ],
+  "src/assets/avatar.webp": [
+    "/assets/avatar-519d6153.webp"
+  ],
+  "src/components/Typewriter.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/avatar-519d6153.webp"
+  ],
+  "src/components/Typewriter.vue?vue&type=style&index=0&scoped=c242ab15&lang.css": [
+    "/assets/avatar-519d6153.webp"
+  ],
+  "src/components/Typewriter.vue": [
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@ctrl+tinycolor@3.5.0/node_modules/@ctrl/tinycolor/dist/module/util.js": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@ctrl+tinycolor@3.5.0/node_modules/@ctrl/tinycolor/dist/module/conversion.js": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@ctrl+tinycolor@3.5.0/node_modules/@ctrl/tinycolor/dist/module/css-color-names.js": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@ctrl+tinycolor@3.5.0/node_modules/@ctrl/tinycolor/dist/module/format-input.js": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "node_modules/.pnpm/@ctrl+tinycolor@3.5.0/node_modules/@ctrl/tinycolor/dist/module/index.js": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "src/components/Website.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "src/components/Website.vue?vue&type=style&index=0&scoped=040db693&lang.css": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "src/components/Website.vue": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
+  ],
+  "src/style/theme.ts": [
+    "/assets/avatar-519d6153.webp"
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
+  ],
+  "src/App.vue?vue&type=style&index=0&lang.css": [
+    "/assets/avatar-519d6153.webp"
   ],
   "src/App.vue": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "src/main.ts": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "index.html": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ],
   "assets/app-!~{001}~.js-unocss-hash.css": [
-    "/assets/SourceHanMonoSC-Regular-cecd1a14.otf",
-    "/assets/MapleMono-Regular-a85ad86f.ttf"
+    "/assets/avatar-519d6153.webp"
   ]
 }
