@@ -65,6 +65,9 @@
   "src/assets/avatar.webp": [
     "/assets/avatar-519d6153.webp"
   ],
+  "src/composables/dom.ts": [
+    "/assets/avatar-519d6153.webp"
+  ],
   "src/components/Typewriter.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/avatar-519d6153.webp"
   ],
@@ -104,7 +107,7 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/avatar-519d6153.webp"
   ],
-  "src/App.vue?vue&type=style&index=0&lang.css": [
+  "src/App.vue?vue&type=style&index=0&scoped=7a7a37b1&lang.css": [
     "/assets/avatar-519d6153.webp"
   ],
   "src/App.vue": [
